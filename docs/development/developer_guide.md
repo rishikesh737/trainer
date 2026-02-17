@@ -187,3 +187,5 @@ sdk/python/kubeflow/training/api
   ```sh
   black --check --exclude '/*kubeflow_org_v1*|__init__.py|api_client.py|configuration.py|exceptions.py|rest.py' sdk/
   ```
+
+- [Local Development with GPU and Gang Scheduling](./local-gpu-gang-scheduling.md)
